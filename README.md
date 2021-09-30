@@ -1,8 +1,7 @@
 # PiSL
 A python implementation of Physics-informed Spline Learning for nonlinear dynamics discovery.
 
-
-
+![plot](https://github.com/andyfangzheng/PiSL/pictures/network.pdf?raw=true)
 
 Sun, F., Liu, Y. and Sun, H., 2021. Physics-informed Spline Learning for Nonlinear Dynamics Discovery, *Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21)*
 
